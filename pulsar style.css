@@ -1,0 +1,82 @@
+.Logo{
+    background-image: url("Logo.png");
+    background-repeat:no-repeat; 
+    width: 360px;
+    height: 660px;
+}
+
+.BunnerInfo {
+    background-image: url("Disco Balls.png");
+    background-repeat:no-repeat;
+    width: 360px;
+    height: 660px;
+
+}
+
+.HaveCodeButton {
+    background-color: #413222;
+    width: 314px;
+    height: 49px;
+}
+
+.DontHaveCodeButton {
+    background-color: #C4B4A1;
+    width: 314px;
+    height: 49px;
+}
+
+.Newsletter {
+    background-color: #ffffff;
+    width: 314px;
+    height: 49px;
+}
+
+body{
+    margin: 0;
+}
+
+.p1{
+    color: #413222;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+.p2{
+    color: #ffffff;
+    font-family: Aquatico;
+    font-size: 48px;
+}
+
+.p3{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+.p4{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.p5{
+    color: #413222;
+    font-size: 34px;
+}
+
+.p6{
+    color: #DAA520;
+    font-size: 30px;
+}
+.p7{
+    color: #413222;
+    font-size: 22px;
+}
+.p8{
+    color: #C4B4A1;
+    font-size: 18px;
+}
+.p9{
+    color: #413222;
+    font-size: 18px;
+}
